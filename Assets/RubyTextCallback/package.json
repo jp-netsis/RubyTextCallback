@@ -1,0 +1,29 @@
+{
+  "name": "jp.netsis.rubytextcallback",
+  "version": "0.1.0",
+  "displayName": "Ruby Text Callback",
+  "description": "Extension to add ruby tags to Text.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/jp-netsis/RubyTextCallback",
+  "changelogUrl": "https://github.com/jp-netsis/RubyTextCallback/release",
+  "licensesUrl": "https://github.com/jp-netsis/RubyTextCallback/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "samples": [
+   {
+     "displayName": "Demo",
+     "description": "Demo",
+     "path": "Samples~/Demo"
+   }
+  ],
+  "keywords": [
+    "Ruby",
+    "Furigana",
+    "Text"
+  ],
+  "author": {
+    "name": "netsis.jp",
+    "email": "info@netsis.jp",
+    "url": "https://netsis.jp/"
+  }
+}

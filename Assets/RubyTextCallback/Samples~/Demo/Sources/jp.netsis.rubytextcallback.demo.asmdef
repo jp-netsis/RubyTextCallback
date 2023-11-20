@@ -1,0 +1,16 @@
+{
+    "name": "jp.netsis.rubytextcallback.demo",
+    "rootNamespace": "",
+    "references": [
+        "jp.netsis.rubytextcallback"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
